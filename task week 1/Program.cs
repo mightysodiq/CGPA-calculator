@@ -75,7 +75,7 @@ namespace task
                 }
                 else
                 {
-                    Console.WriteLine("your input is invalid");
+                    Console.WriteLine("your Input is invalid");
                 }
                    
             } 
