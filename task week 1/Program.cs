@@ -69,7 +69,7 @@ namespace task
                     {
                         Console.WriteLine("your Input is invalid");
                         break;
-                   }
+                    }
 
                     totalweightpoint += weightpt;
                     totalcourseunitregistered += courseUnit;
