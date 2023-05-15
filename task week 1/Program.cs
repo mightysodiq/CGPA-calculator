@@ -97,8 +97,6 @@ namespace task
     }
 
     
-   
-
     }
     class Program_run
     {
@@ -108,9 +106,6 @@ namespace task
             var obj =new Program();
             obj.DataCollection();
 
-        }
-    }
     
-}
 
 
